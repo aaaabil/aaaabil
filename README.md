@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaaabil
 - 👀 I’m interested in Andoroid Dev, and cyber security
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Anything that can develop my skill :)
+- 👋 I’m looking to collaborate on Anything that can develop my skill :)
 - 📫 You can reach me at ig @fxchdy_
 
 <!---
